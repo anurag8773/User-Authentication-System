@@ -93,7 +93,7 @@ user_authentication/
 
 ## Demo Video
 
-[Watch Demo Video](screenshots/User_Authentication_System.mp4)
+[Watch Demo Video](screenshots/User_Authentication_System.mp4).
 Video Link: [Video](https://drive.google.com/drive/folders/1c05Lrp7xh2w1zH_YIQzau9KL10EhvhZR?usp=sharing)
 
 ## Logic & Implementation
