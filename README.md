@@ -74,20 +74,26 @@ user_authentication/
 ## Screenshots
 
 ### Login Page
-![Login Page](screenshots/login_page.png)
+![Login Page](screenshots/login.png)
 
 ### Signup Page
-![Signup Page](screenshots/signup_page.png)
+![Signup Page](screenshots/signup.png)
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
+### Profile
+![Dashboard](screenshots/profile.png)
+
+### Change Password
+![Password Reset](screenshots/change_password.png)
+
 ### Password Reset
-![Password Reset](screenshots/password_reset.png)
+![Password Reset](screenshots/reset-password.png)
 
 ## Demo Video
 
-[Watch Demo Video](demo/demo_video.mp4)
+[Watch Demo Video](screenshots/User_Authentication_System.mp4)
 
 ## Logic & Implementation
 
